@@ -1,0 +1,2 @@
+File: moreInfo.txt
+Purpose: provide another short file for this test repo
