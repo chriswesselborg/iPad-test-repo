@@ -1,0 +1,1 @@
+forthFile.txt adds a small amount of contents.
