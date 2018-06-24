@@ -1,1 +1,2 @@
 forthFile.txt adds a small amount of contents.
+Hotfix performed in this file. To be merged into both master and dev branches. And bump version to 0.1.1.
