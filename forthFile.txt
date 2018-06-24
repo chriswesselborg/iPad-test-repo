@@ -1,1 +1,4 @@
 forthFile.txt adds a small amount of contents.
+Some details left out and now added.
+Hotfix performed in this file. To be merged into both master and dev branches.
+Bumped version to 0.1.1, via Releases > Draft new release and applying to Hotfix-0.1.1 repo.
