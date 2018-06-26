@@ -1,4 +1,0 @@
-First line of text.
-SECOND AND LAST LINE.
-
-This was the first file; now adding some more contents.

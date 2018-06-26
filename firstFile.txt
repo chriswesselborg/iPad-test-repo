@@ -1,0 +1,5 @@
+File: firstFile.txt (was starter.txt)
+First line of text, second line in file.
+Third line.
+
+This was the first file; now adding some more contents.
