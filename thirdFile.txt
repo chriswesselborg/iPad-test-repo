@@ -1,3 +1,12 @@
 Three is a charm. This file is created in the devMod branch.
 When this file and contents appears in origin/master, then the merge is
 Complete.
+Hotfix 0.1.2; to be merged into master and dev;
+Bumped tag to 0.1.2
+Trying to do it all via the iPad's Working Copy
+Unclear where the tag/release/version can be bumped.
+
+Reading up on WorkingcopyApp.com, haven't found tags, yet; explains that swiping left on file offers action menu; trying it out now.
+
+Resolution: from GitHub, create new release via Release > Draft new release; create new tag (0.1.2) to be associated with release when published
+Chose for target the current branch, Hotfix-0.1.2.
