@@ -1,2 +1,2 @@
-File: moreInfo.txt
+File: moreInfo.txt, renamed to secondFile.txt
 Purpose: provide another short file for this test repo
