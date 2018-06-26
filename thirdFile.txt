@@ -4,3 +4,4 @@ Complete.
 Hotfix 0.1.2; to be merged into master and dev;
 Bumped tag to 0.1.2
 Trying to do it all via the iPad's Working Copy
+Unclear where the tag/release/version can be bumped.
